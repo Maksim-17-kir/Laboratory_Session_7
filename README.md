@@ -11,7 +11,7 @@
 ### Алгоритм решения
 
 ### Блок-схема
-<img src="https://github.com/user-attachments/assets/5368aa6c-7c65-48ab-89ff-3fb1708d21d7" alt="Screenshot" width="500">
+<img src="[https://github.com/user-attachments/assets/5368aa6c-7c65-48ab-89ff-3fb1708d21d7](https://github.com/user-attachments/assets/2c9bbbb9-7ed8-4452-9c01-67a4f9688b5d)" alt="Screenshot" width="500">
 
 ## 2. Реализация программы
 _см. task_1 > Code_
